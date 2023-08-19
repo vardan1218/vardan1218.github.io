@@ -1,14 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
+import Navbar from './components/navbar';
+import Card from './components/card';
+import Header from './components/header';
 
 function App() {
   return (
     <div className="App">
-
-      <h1 className='text-4xl'>Hello World!</h1>
-      
-      
- 
+      <Navbar />
+      <Header />
+      <Card />
     </div>
   );
 }
