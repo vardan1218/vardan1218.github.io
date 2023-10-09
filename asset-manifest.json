@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.dc2b2bcc.css",
-    "main.js": "/static/js/main.6a35c0cc.js",
-    "static/js/787.a9120f67.chunk.js": "/static/js/787.a9120f67.chunk.js",
-    "index.html": "/index.html",
-    "main.dc2b2bcc.css.map": "/static/css/main.dc2b2bcc.css.map",
-    "main.6a35c0cc.js.map": "/static/js/main.6a35c0cc.js.map",
-    "787.a9120f67.chunk.js.map": "/static/js/787.a9120f67.chunk.js.map"
+    "main.css": "/vardan1218.github.io/static/css/main.9946133a.css",
+    "main.js": "/vardan1218.github.io/static/js/main.7e0fe841.js",
+    "static/js/787.a9120f67.chunk.js": "/vardan1218.github.io/static/js/787.a9120f67.chunk.js",
+    "index.html": "/vardan1218.github.io/index.html",
+    "main.9946133a.css.map": "/vardan1218.github.io/static/css/main.9946133a.css.map",
+    "main.7e0fe841.js.map": "/vardan1218.github.io/static/js/main.7e0fe841.js.map",
+    "787.a9120f67.chunk.js.map": "/vardan1218.github.io/static/js/787.a9120f67.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc2b2bcc.css",
-    "static/js/main.6a35c0cc.js"
+    "static/css/main.9946133a.css",
+    "static/js/main.7e0fe841.js"
   ]
 }
